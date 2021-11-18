@@ -27,7 +27,6 @@ const ClosePopup = (() => {
             const is_iom_client = (Client.get('residence') === 'im' || State.getResponse('website_status.clients_country') === 'im');
             const client_account = Client.get('landing_company_shortcode') === 'virtual' || Client.get('landing_company_shortcode') === 'iom';
 
-            console.log("Client", Client.get("landing_company_shortcode"));
             if (is_uk_residence && client_account) {
                 el_gaming_popup = getElementById('gaming-close-popup');
                 el_accept_btn = getElementById('accept-btn');
