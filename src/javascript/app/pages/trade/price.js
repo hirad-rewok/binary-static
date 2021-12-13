@@ -365,7 +365,6 @@ const Price = (() => {
 
         processForgetProposalOpenContract();
         processForgetProposals().then(() => {
-            const expiry_type   = CommonFunctions.getElementById('expiry_type');
             const position_is_visible = {
                 top   : false,
                 middle: false,
@@ -377,8 +376,8 @@ const Price = (() => {
                 const proposal = Price.proposal(type_of_contract);
                 position_is_visible[position] = true;
 
-                // When the duration input is empty and expiry type is not endtime, it should not send a proposal call.
-                if (!proposal.duration && expiry_type.value !== 'endtime') {
+                // When the duration input is empty, it should not send a proposal call.
+                if (!proposal.duration) {
                     commonTrading.hideOverlayContainer();
                     commonTrading.hidePriceOverlay();
                     setPriceContainersVisibility(position_is_visible);
