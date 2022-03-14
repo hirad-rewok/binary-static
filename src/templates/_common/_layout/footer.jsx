@@ -155,6 +155,9 @@ const Footer = () => (
                                 `<a href=${it.url_for('download/regulation/Labuan-license.pdf')} target="_blank">`, '</a>')}
                         </p>
                         <p>
+                            {it.L('Deriv Limited — 13 Castle Street, St. Helier, JE2 3BT, Jersey — is the holding company for the above subsidiaries.')}
+                        </p>
+                        <p>
                             {it.L('This website\'s services are not made available in certain countries such as the USA, Canada, Hong Kong, or to persons under age 18.')}
                         </p>
                         <fieldset className='fld-risk-warning'>
@@ -212,6 +215,9 @@ const Footer = () => (
                         <p>
                             {it.L('In the rest of the EU, Synthetic indices are offered by Deriv (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara BKR 9033, Malta; licensed and regulated by (1) the Malta Gaming Authority ([_1]licence no. MGA/B2C/102/2000[_3])  and (2) the Revenue Commissioners for clients in Ireland (licence no. 1010285). View complete [_2]Regulatory Information[_3].', `<a href=${it.url_for('download/regulation/MGA_licence.pdf')} target="_blank">`, `<a href="${it.url_for('regulation')}">`, '</a>')}
                         </p>
+                        <p>
+                            {it.L('Deriv Limited — 13 Castle Street, St. Helier, JE2 3BT, Jersey — is the holding company for the above subsidiaries.')}
+                        </p>
                     </div>
                 </div>
                 <div className='gr-row'>
@@ -232,16 +238,6 @@ const Footer = () => (
                             <p className='eu-only invisible'>
                                 {it.L('CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. [_1] of retail investor accounts lose money when trading CFDs with Deriv Investments (Europe) Limited. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.', '66%')}
                             </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div className='container'>
-                <div className='gr-row'>
-                    <div className='gr-12'>
-                        <div className='copyright'>
-                            <img src={it.url_for('images/common/copyright.svg')} />
-                            <p>{it.L('2021 Binary | All rights reserved')}</p>
                         </div>
                     </div>
                 </div>

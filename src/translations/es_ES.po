@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: binary-static\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2021-11-29 07:07\n"
+"PO-Revision-Date: 2022-03-14 04:00\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "MIME-Version: 1.0\n"
@@ -646,9 +646,6 @@ msgstr "2.50"
 msgid "20 – 39.999%"
 msgstr "20 – 39.999%"
 
-msgid "2021 Binary | All rights reserved"
-msgstr "2021 Binary | Todos los derechos reservados"
-
 msgid "3.75"
 msgstr "3.75"
 
@@ -1281,6 +1278,9 @@ msgstr "Agencia o asociación"
 
 msgid "Agent's obligations"
 msgstr "Obligaciones del agente"
+
+msgid "Agents may not use their Binary.com account for trading under any circumstances."
+msgstr ""
 
 msgid "Agree and accept"
 msgstr "Acordar y aceptar"
@@ -2261,8 +2261,8 @@ msgstr "Programa de Graduados de Binary.com"
 msgid "Binary.com in Numbers"
 msgstr "Binary en números"
 
-msgid "Binary.com is moving to Deriv on 30 November"
-msgstr "Binary.com se traslada a Deriv el 30 de noviembre"
+msgid "Binary.com is moving to Deriv"
+msgstr "Binary.com está transitando a Deriv"
 
 msgid "Binary.com recommends 1.1.1.1"
 msgstr "Binary.com recomienda 1.1.1.1"
@@ -2475,7 +2475,7 @@ msgid "CFDs on cryptocurrencies"
 msgstr "CFDs de criptomonedas"
 
 msgid "CFDs on stock indices"
-msgstr "CFDs de índices de acciones"
+msgstr "CFDs de índices bursátiles"
 
 msgid "CFDs on stocks"
 msgstr "CFDs de acciones"
@@ -3872,9 +3872,6 @@ msgstr "Deriv (BVI) Ltd: Islas Vírgenes Británicas"
 msgid "Deriv (Europe) Limited"
 msgstr "Deriv (Europe) Limited"
 
-msgid "Deriv (Europe) Limited or"
-msgstr "Deriv (Europe) Limited o"
-
 msgid "Deriv (FX) Ltd"
 msgstr "Deriv (FX) Ltd"
 
@@ -3925,9 +3922,6 @@ msgstr "Deriv Investments (Europe) Limited"
 
 msgid "Deriv Investments (Europe) Limited aggregates the Bid and Ask prices from a pool of liquidity providers to determine and offer the client the best available price of the instrument. The Company is always the final counterparty to the client's Transactions. The Company may execute Orders on behalf of its client, wherein the Company will act as a broker and pass on the Order to the liquidity provider for execution. Alternatively, the Company may also keep the client's Order on its own account, wherein the Company will take the other side of the client's trade. It is further noted that the Company may make a profit as a result of the client's losses and vice-versa. Further details can be found under Conflicts of interest policy and Order execution policy."
 msgstr "Deriv Investments (Europe) Limited agrupa los precios de compra y venta de un grupo de proveedores de liquidez para determinar y ofrecer el mejor precio disponible para el instrumento. La Empresa es siempre la contra-parte final de sus transacciones. La Empresa puede ejecutar operaciones en representación de sus clientes, en las cuales La Empresa actúa como corredor y transmite la orden al proveedor de liquidez para su ejecución. Alternativamente, La Empresa puede también almacenar la operación del cliente por cuenta propia, en la cual La Empresa tomará el otro lado de la operación del cliente. Notándose además que La Empresa puede obtener una ganancia como resultado de la perdida de su operación y viceversa. Para más detalles, por favor consulte nuestras Políticas de Conflictos de Interés y de Ejecución de Órdenes."
-
-msgid "Deriv Investments (Europe) Limited and Deriv (Europe) Limited: Malta"
-msgstr "Deriv Investments (Europe) Limited y Deriv (Europe) Limited: Malta"
 
 msgid "Deriv Investments (Europe) Limited has prepared the Financial disclosures report in accordance with the Investment Firms Regulation and Directive. Read our report to understand how we comply with market discipline as a market participant."
 msgstr "Deriv Investments (Europe) Limited ha preparado el Informe de divulgación financiera de conformidad con el Reglamento y la Directiva de Empresas de Inversión. Lea nuestro informe para comprender cómo cumplimos con la disciplina del mercado como participante del mercado."
@@ -5978,8 +5972,8 @@ msgstr "Si el <strong>punto de salida</strong> es igual a la <strong>barrera</st
 msgid "If the <strong>last tick</strong> is equal to the average of the ticks, you don't win the payout."
 msgstr "Si el <strong>último intervalo</strong> es igual a la media de los intervalos, no recibirá el premio."
 
-msgid "If the Agent’s Binary.com account balance drops below the minimum amount required for the Agent’s country of residence, the Company will give the Agent a 30-day notice and then 30 days grace period to eliminate the deficit. At the end of these 60 days, if the Agent’s account balance does not meet or exceed the minimum required amount, the Company’s contract with the Agent shall be terminated."
-msgstr "Si el saldo de la cuenta de Binary.com del Agente cae por debajo de la cantidad mínima requerida para el país de residencia del Agente, la Compañía dará al Agente un aviso de 30 días y luego 30 días de gracia para eliminar el déficit. Al final de estos 60 días, si el saldo de la cuenta del Agente no alcanza o supera la cantidad mínima requerida, el contrato de la Compañía con el Agente se dará por terminado."
+msgid "If the Agent has not been asked to meet a minimum account balance requirement upon application, the Agent will receive a 30-day notice to ensure the Agent’s Binary.com account balance meets the minimum balance requirement for the Agent’s country of residence. The Agent may not use credit or debit cards or Deriv P2P to top up the Agent’s Binary.com account for the purpose of meeting the minimum balance requirement. The Company reserves the right to withdraw the Agent’s payment agent status if the Agent does not meet this requirement within 30 days."
+msgstr ""
 
 msgid "If the Company (in its sole discretion) is not satisfied that a client is complying with these terms, or if a client does not comply with a reasonable request for information made by the Company, the Company may cancel the client's account and withhold any funds accumulated therein."
 msgstr "Si la Empresa (a su sola discreción) no está convencida que un cliente esté cumpliendo con estos términos, o si un cliente no coopera con una solicitud razonable de información para la Empresa, la Empresa puede cancelar la cuenta del cliente y retener cualquier fondo acumulado en la misma."
@@ -6425,9 +6419,6 @@ msgstr "En la Unión Europea, los productos de inversión se ofrecen a través d
 
 msgid "In the EU, financial products are offered by Deriv Investments (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta, regulated as a Category 3 Investment Services provider by the Malta Financial Services Authority (%1licence no. IS/70156%2)."
 msgstr "En la Unión Europea, los productos de inversión se ofrecen a través de Deriv Investments (Europe) Limited., W Business Centre, Nivel 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta, regulado como proveedor de servicios de categoría 3, por la Autoridad de Servicios Financieros de Malta (%1licencia núm. IS/70156%2)."
-
-msgid "In the UK, our clients trade through Deriv (MX) Ltd and Deriv Investments (Europe) Limited. In the Isle of Man, they trade through Deriv (MX) Ltd. In the European Union (except UK), they trade through Deriv (Europe) Limited and Deriv Investments (Europe) Limited. In the rest of the world, they trade through Deriv (SVG) LLC, Deriv (V) Ltd, Deriv (BVI) Ltd and Deriv (FX) Ltd."
-msgstr "En el Reino Unido, nuestros clientes operan a través de Deriv (MX) Ltd y Deriv Investments (Europe) Limited. En la Isla de Man, operan a través de Deriv (MX) Ltd. En la Unión Europea (excepto en el Reino Unido) a través de Deriv (Europe) Limited y Deriv Investments (Europe) Limited. En el resto del mundo, operan a través de Deriv (SVG) LLC, Deriv (V) Ltd, Deriv (BVI) Ltd y Deriv (FX) Ltd."
 
 msgid "In the case of a Limit Order, the client acknowledges that the Company will endeavour to fill the Order at a level that is the same or better than the Limit the client has specified, subject to the availability of the Limit Price."
 msgstr "En el caso de una Orden Límite, el cliente reconoce que la Empresa se esforzará para concretar la Orden a un nivel igual o mejor que el límite especificado por el cliente, sujeto a la disponibilidad del Precio Límite."
@@ -9063,6 +9054,9 @@ msgstr "Por favor, envíe la información anterior a %1."
 msgid "Please submit your %1proof of address%2."
 msgstr "Envíe su %1comprobante de dirección%2."
 
+msgid "Please submit your %1proof of identity%2 to authenticate your account and access the Cashier."
+msgstr ""
+
 msgid "Please submit your %1proof of identity%2."
 msgstr "Envíe su %1comprobante de identidad%2."
 
@@ -10818,8 +10812,8 @@ msgstr "Dicha transferencia causaría que el Capital de la Cuenta del cliente ca
 msgid "Such a withdrawal would result in the client's Account Equity being less than zero."
 msgstr "Dicho retiro resultaría en que el capital de la cuenta del cliente sea menor a cero."
 
-msgid "Such materials may be copied and distributed on a limited basis for noncommercial purposes only, provided that any material copied remains intact and that all copies include the following notice in a clearly visible position: &ldquo;Copyright 1999-<span class='currentYear'></span> Deriv Ltd. All rights reserved.&rdquo;"
-msgstr "Dichos materiales pueden copiarse y distribuirse de acuerdo con una base limitada solo para propósitos no comerciales, siempre y cuando el material que se copie permanezca intacto y en una posición visible: &ldquo;Copyright 1999-<span class='currentYear'></span> Deriv Ltd. Todos los derechos reservados.&rdquo;"
+msgid "Such materials may be copied and distributed on a limited basis for noncommercial purposes only, provided that any material copied remains intact and that all copies include the following notice in a clearly visible position: &ldquo;Copyright <span class='currentYear'></span> Deriv Ltd. All rights reserved.&rdquo;"
+msgstr ""
 
 msgid "Summarise audit findings and work with department heads on the proposed solutions"
 msgstr "Resumir los resultados de la auditoría y trabajar con los jefes de departamento en las soluciones propuestas"
@@ -11271,8 +11265,14 @@ msgstr "El Agente ha tomado todas las medidas necesarias para obtener y mantener
 msgid "The Agent is prohibited from offering the Agent's services, under this agreement, to the clients who reside in restricted countries outlined in the Company's terms and conditions (as amended from time to time), which are published on the Company's website, %1www.binary.com%2."
 msgstr "El Agente no estará autorizado a ofrecer los servicios de Agente, en virtud de este acuerdo, a los clientes que residen en países restringidos señalados en los términos y condiciones de la Compañía (modificados periódicamente), y publicados en el sitio web de la Compañía, %1www.binary.com%2."
 
-msgid "The Agent may only provide the Agent's services to those clients of the Company who reside within the same jurisdiction where the Agent operates and desire to deposit and/or withdraw money through the Agent. The Agent may provide the Agent's services to clients who intend to use e-wallet or e-payment methods other than those used by the Company (hereinafter referred to as the \"e-payments\") or local currencies other than those accepted by the Company (hereinafter referred to as the \"local currencies\") and local bank wire transfers (hereinafter referred to as the \"bank wire transfers\")."
+msgid "The Agent may not make withdrawals through the Cashier page or Deriv P2P unless the Company makes an exception at its sole discretion."
 msgstr ""
+
+msgid "The Agent may not transfer funds to another Agent unless the Company makes an exception at its sole discretion."
+msgstr ""
+
+msgid "The Agent may only provide the Agent's services to those clients of the Company who reside within the same jurisdiction where the Agent operates and desire to deposit and/or withdraw money through the Agent. The Agent may provide the Agent's services to clients who intend to use e-wallet or e-payment methods other than those used by the Company (hereinafter referred to as the \"e-payments\") or local currencies other than those accepted by the Company (hereinafter referred to as the \"local currencies\") and local bank wire transfers (hereinafter referred to as the \"bank wire transfers\")."
+msgstr "El Agente sólo podrá prestar sus servicios a aquellos clientes de la Compañía que residan en la misma jurisdicción en la que opera el Agente y deseen depositar y/o retirar dinero a través del Agente. El Agente podrá prestar los servicios de Agente a los clientes que pretendan utilizar billeteras electrónicas o métodos de pago electrónico distintos de los utilizados por la Compañía (en lo sucesivo, se le llamará \"pagos electrónicos\") o monedas locales distintas de las aceptadas por la Compañía (en lo sucesivo, se le llamará \"monedas locales\") y transferencias bancarias locales (en lo sucesivo, se le llamará \"transferencias bancarias\")."
 
 msgid "The Agent promises to the Company that the Agent shall comply with, and the Agent's services will be performed in accordance with, any applicable anti-corruption laws."
 msgstr "El Agente se compromete ante la Empresa a cumplir con sus servicios que se prestarán de acuerdo con las leyes anticorrupción aplicables."
@@ -11365,7 +11365,7 @@ msgid "The Company endeavours to open or close the transaction to which the clie
 msgstr "La Empresa se esfuerza en abrir o cerrar la transacción relacionada a la Orden del cliente a un precio razonable disponible a la Empresa, actuando de acuerdo a su deber de mejor ejecución. Mejor ejecución se refiere a que, cuando se ejecutan Órdenes, la Empresa deberá tomar todas las medidas necesarias para obtener el mejor resultado posible para el cliente, teniendo en cuenta el precio, los costos, la velocidad, la probabilidad de ejecución y liquidación, la dimensión, la naturaleza o cualquier otra consideración relevante a la ejecución de la Orden."
 
 msgid "The Company has a Stop Out policy which prevents the client from losing more than they have deposited. If the client’s balance becomes negative due to Stop Out, an automatic compensation will revert the client’s balance to zero. The client acknowledges that, unless they are a retail customer of Deriv Investments (Europe) Limited or a retail customer residing in Australia, the offer of the negative balance protection by the Company to the client is at the Company's sole discretion and the Company reserves the right to change the features and eligibility criteria of the negative balance protection at any time. The provisions of the negative balance protection do not apply in the following situations:"
-msgstr ""
+msgstr "La empresa tiene una política de Stop Out que impide que el cliente pierda más de lo que ha depositado. Si el saldo del cliente se vuelve negativo debido al Stop Out, una compensación automática revertirá el saldo del cliente a cero. El cliente reconoce que, a menos que sea un cliente minorista de Deriv Investments (Europe) Limited o un cliente minorista residente en Australia, la oferta de la protección de saldo negativo por parte de la Empresa al cliente es a discreción de la Empresa y ésta se reserva el derecho de cambiar las características y los criterios de elegibilidad de la protección de saldo negativo en cualquier momento. Las disposiciones de la protección de saldo negativo no se aplican en las siguientes situaciones:"
 
 msgid "The Company has a general duty to conduct its business with the client honestly, fairly, and professionally and to act in the client's best interests when opening and closing binary options trades with the client."
 msgstr "La Empresa tiene el deber general de llevar sus negocios con el cliente con honestidad, imparcialidad y profesionalismo y de actuar en el mejor interés del cliente al abrir y cerrar contratos en opciones binarias con él mismo."
@@ -11395,7 +11395,7 @@ msgid "The Company holds customer funds in bank accounts separate from the opera
 msgstr "La Empresa mantiene los fondos de los clientes en cuentas bancarias separadas de las cuentas operativas y se han tomado medidas para garantizar que los activos en las cuentas de los clientes les sean distribuidos en caso de insolvencia."
 
 msgid "The Company holds customer funds in bank accounts separate from the operational accounts. Deriv (Europe) Limited has arrangements in place so that in the event of insolvency, it is able to meet its obligations to clients. These arrangements are in the form of a loan agreement between Deriv (Europe) Limited and the parent company, Deriv Limited. This loan will always at minimum cover the client liabilities. This meets the Gambling Commission's requirements for the segregation of customer funds at the level of medium protection."
-msgstr ""
+msgstr "La empresa mantiene los fondos de los clientes en cuentas bancarias separadas de las cuentas operativas. Deriv (Europe) Limited cuenta con acuerdos para que, en caso de insolvencia, pueda cumplir sus obligaciones con los clientes. Estos acuerdos existen en forma de contrato de préstamo entre Deriv (Europe) Limited y la compañía matriz, Deriv Limited. Este préstamo siempre cubrirá como mínimo las obligaciones de los clientes. Esto cumple con los requisitos de la Comisión de Juego para la segregación de los fondos de los clientes a nivel de protección media."
 
 msgid "The Company is an independent legal entity and is not affiliated with the MT5 trading platform. MT5 is not owned, controlled, or operated by the Company. Therefore, the Company does not provide any warranties related to any MT5 product or service and has not reviewed or verified any performance results that may be presented and/or described on this website in relation to MT5."
 msgstr "La Empresa es una entidad jurídica independiente y no está afiliada con la plataforma de trading MT5. La Empresa no es propietaria de MT5, y tampoco la controla o maneja. Por lo tanto, la Empresa no brinda cualquier tipo de garantía con respecto a algún producto o servicio de MT5 y no ha revisado o verificado los resultados de desempeño que puedan ser presentados y/o descritos en este sitio web en relación con MT5."
@@ -11530,7 +11530,7 @@ msgid "The Company reserves the right in its sole discretion to refuse and/or ca
 msgstr "La Empresa se reserva el derecho, bajo su propia discreción, de rechazar y/o cancelar servicios, cobrar comisiones de depósito y/o retiro a cualquiera por cualquier razón, incluyendo pero no limitado a lo siguiente:"
 
 msgid "The Company reserves the right to accept or reject the Agent's application. Where the Agent's application is accepted, the Company shall include all relevant information, including but not limited to name, address, website URL (if available), email address, telephone number, commission rates, and payment methods used by the Agent, in the payment agent list which is disclosed on the Company's website, %1www.binary.com%2."
-msgstr ""
+msgstr "La Compañía se reserva el derecho de aceptar o rechazar la solicitud del Agente. En caso de que se acepte la solicitud del Agente, la Compañía incluirá toda información relevante, incluyendo, pero sin limitarse al nombre, dirección, URL del sitio web (si está disponible), correo electrónico, número de teléfono, tasas de comisión y métodos de pago utilizados por el Agente, en la lista de agentes de pago publicada en el sitio web de la Compañía, %1www.binary.com%2."
 
 msgid "The Company reserves the right to block or withhold the funds in the client’s account and/or suspend or close the client’s account if it is known or there is reason to believe that one or more of the following cases are true:"
 msgstr "La Compañía se reserva el derecho de bloquear o retener los fondos en la cuenta del cliente y/o suspender o cerrar la cuenta del cliente si se sabe o hay razones para creer que uno o más de los siguientes casos son ciertos:"
@@ -12120,8 +12120,8 @@ msgstr "El cliente está dispuesto y es financieramente capaz de sobrellevar una
 msgid "The client may choose to contact the Company to close the client's account held with the Company. The client's account may be closed if the client does not have any open trade positions and if the client has complied with the requested \"Know Your Client\" procedures to enable the client to withdraw any pending funds in the client's account."
 msgstr "El cliente podrá optar por contactar a la Empresa para cerrar su cuenta. La cuenta podrá cerrarse si el cliente no tiene ninguna posición comercial abierta y si ha cumplido con los procedimientos requeridos de \"Conocer a sus Clientes\" (procedimientos KYC) para poder retirar cualquier saldo en cuenta."
 
-msgid "The client may communicate with the Company through this website or by means of e-mail, phone or, exceptionally, by post. Details can be found in the Contact us page."
-msgstr "El cliente puede comunicarse con la Empresa a través de este sitio web por medio de correo electrónico, teléfono o, excepcionalmente, por correo postal. Los detalles se pueden encontrar en la página Contáctenos."
+msgid "The client may communicate with the Company via online chat on the Company’s websites."
+msgstr ""
 
 msgid "The client may make Margin Payments by transferring funds from their %1 account to their MT5 Real Account. In the event that there are insufficient funds in the client's %1 account to fund their MT5 Real Account, they may make Margin Payments by funding their %1 account and transferring the funds from their %1 account to their MT5 Real Account."
 msgstr "El cliente puede realizar Pagos de Margen transfiriendo fondos de su cuenta %1 a su Cuenta Real MT5. En el caso que no hayan fondos suficientes en su cuenta %1 para financiar su Cuenta Real MT5, el cliente puede realizar Pagos de Margen financiando su cuenta %1 y transfiriendo los fondos de su cuenta %1 a su Cuenta Real MT5."
@@ -12345,8 +12345,8 @@ msgstr "Las condiciones de mercado de los instrumentos financieros con las cuale
 msgid "The market exit price is the price in effect at the end of the contract period."
 msgstr "El precio de salida del mercado es el precio en vigor en el momento de la finalización del contrato."
 
-msgid "The materials comprising the %1 website (including without limitation all articles, text, images, logos, compilation, systems, code, and design) are under Copyright 1999-%2 Deriv Group companies with all rights reserved."
-msgstr "Los materiales que conforman el sitio web de %1 (incluyendo sin limitación a todos los artículos, textos, imágenes, logos, compilaciones, sistemas, códigos, y diseño) están registrados bajo Derechos de autor 1999-%2 al grupo de Empresas de Deriv con todos los derechos reservados."
+msgid "The materials comprising the %1 website (including without limitation all articles, text, images, logos, compilation, systems, code, and design) are under Copyright %2 Deriv Group companies with all rights reserved."
+msgstr ""
 
 msgid "The maximum loss that may be incurred by any client is the amount of money paid by the client to the Company."
 msgstr "La pérdida máxima en la que puede incurrir un cliente es la cantidad de dinero invertido por dicho cliente ante la Empresa."
@@ -13014,8 +13014,8 @@ msgstr "Para mantener las Posiciones Abiertas, se requiere que el cliente tenga 
 msgid "To many attempts. Please try again in a few minutes"
 msgstr "Demasiados intentos. Vuelve a intentarlo en unos minutos."
 
-msgid "To meet the requirement in the previous clause, the applicant may deposit the required amount using any payment method, including another payment agent’s services, with the exception of DP2P and credit or debit cards."
-msgstr "Para cumplir con el requisito de la cláusula anterior, el solicitante puede depositar la cantidad requerida utilizando cualquier método de pago, incluyendo los servicios de otro agente de pago, con la excepción de DP2P y tarjetas de crédito o débito."
+msgid "To meet the requirement in the previous clause, the applicant may deposit the required amount using any payment method, including another payment agent’s services, with the exception of Deriv P2P and credit or debit cards."
+msgstr ""
 
 msgid "To open a bank account, we will need to verify your identity."
 msgstr "Para abrir una cuenta bancaria, necesitaremos verificar su identidad."
@@ -13866,7 +13866,7 @@ msgstr "Verificar identidad"
 msgid "Verify your identity"
 msgstr "Verifique su identidad"
 
-msgid "Version 52. Last modified 26-11-2021."
+msgid "Version 53. Last modified 01-03-2022."
 msgstr ""
 
 msgid "Video Room Facility"
@@ -15071,6 +15071,9 @@ msgstr "Su cuenta ahora está desactivada."
 
 msgid "Your account is temporarily disabled. Please contact us via live chat to enable deposits and withdrawals again."
 msgstr "Su cuenta está temporalmente deshabilitada. Comuníquese con nosotros a través del chat en vivo para habilitar los depósitos y retiros nuevamente."
+
+msgid "Your account needs authentication. Please submit your %1proof of identity%2 to access Cashier."
+msgstr ""
 
 msgid "Your account remains under the retail client category."
 msgstr "Su cuenta permanece bajo la categoría de cliente minorista."
