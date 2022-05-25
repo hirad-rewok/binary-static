@@ -69,7 +69,7 @@ const TickDisplay = (() => {
                 title        : show_contract_result ? '' : contract.display_name,
                 tooltip      : {
                     formatter() {
-                        const tick = contract.tick_stream ? contract.tick_stream.find((data) => data.tick === this.y) : '';
+                        const tick = contract.tick_stream.find((data) => data.tick === this.y);
                         const tick_display_value = tick ? tick.tick_display_value : '';
                         const date = moment.utc(contract.tick_stream[this.x].epoch * 1000).format('dddd, MMM D, HH:mm:ss');
                         return `<div class='tooltip-body'>${date}<br/>${contract.display_name} ${tick_display_value}</div>`;
